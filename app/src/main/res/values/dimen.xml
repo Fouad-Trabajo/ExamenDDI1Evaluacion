@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Valor para márgenes -->
+    <dimen name="margin">8dp</dimen>
+
+    <!-- Valores para la barra superior .-->
+    <dimen name="titleTop">34sp</dimen>
+
+    <!-- Valores para la imagen -->
+    <dimen name="imageHeight">500dp</dimen>
+
+    <!-- Valores para las diferentes partes de los textos del producto -->
+    <dimen name="productPriceTextSize">32sp</dimen>
+    <dimen name="productTitle">38sp</dimen>
+    <dimen name="productMeasuresTextSize">18sp</dimen>
+    <dimen name="productEnStockTextSize">14sp</dimen>
+    <dimen name="productSpecificationsTitleTextSize">30sp</dimen>
+    <dimen name="productSpecificationsBodyTextSize">16sp</dimen>
+
+    <!-- Valores botón Añadir a la cesta  -->
+    <dimen name="buttonAddToCartTextSize">20sp</dimen>
+
+
+</resources>
