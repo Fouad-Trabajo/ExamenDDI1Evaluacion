@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.DDI_Fouad_Examen_1eval"
+        android:theme="@style/Base.Theme.DDI_Fouad_Examen_1eval"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
